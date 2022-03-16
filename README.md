@@ -3,7 +3,7 @@
 
 ### Hi 👋 soy Ceci.
 
-##Voy a ser desarrolladora de sotfware.
+###Voy a ser desarrolladora de sotfware.
 
 📚 Actualmente estudio para serlo.
 
