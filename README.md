@@ -1,5 +1,5 @@
 
-![barra-gradiente](https://user-images.githubusercontent.com/91616144/158675978-ee1df20c-7f06-4869-b2d8-787feccb542a.png)
+![gradiente](https://user-images.githubusercontent.com/91616144/158677363-3312a88f-e794-4f47-aab1-a932e4076d4f.png)
 
 ### Hi 👋 soy Ceci.
 
