@@ -1,5 +1,5 @@
 
-![gradiente-menu](https://user-images.githubusercontent.com/91616144/158678783-db8ca4bd-2181-4d39-a1e4-efad8d972765.png)
+![menugradiente](https://user-images.githubusercontent.com/91616144/158679644-4485ee55-fdf6-491e-b50c-ebe940290c63.png)
 
 ### Hi 👋 soy Ceci.
 
@@ -15,7 +15,7 @@
 - Photoshop
 - Figma
 
-![gradiente-menu](https://user-images.githubusercontent.com/91616144/158678783-db8ca4bd-2181-4d39-a1e4-efad8d972765.png)
-![gradiente-menu](https://user-images.githubusercontent.com/91616144/158678783-db8ca4bd-2181-4d39-a1e4-efad8d972765.png)
+![menugradiente](https://user-images.githubusercontent.com/91616144/158679644-4485ee55-fdf6-491e-b50c-ebe940290c63.png)
+![menugradiente](https://user-images.githubusercontent.com/91616144/158679644-4485ee55-fdf6-491e-b50c-ebe940290c63.png)
 
 
