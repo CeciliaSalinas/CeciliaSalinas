@@ -1,6 +1,5 @@
 
-![menugradiente](https://user-images.githubusercontent.com/91616144/158679644-4485ee55-fdf6-491e-b50c-ebe940290c63.png)
-
+![linegradiente](https://user-images.githubusercontent.com/91616144/158687455-cfb4c1ef-762e-4cc5-b5af-08fb54264cfa.png)
 ### Hi 👋 soy Ceci.
 
 ⚡Voy a ser desarrolladora de sotfware.
@@ -15,8 +14,9 @@
 - Photoshop
 - Figma
 
-![menugradiente](https://user-images.githubusercontent.com/91616144/158679644-4485ee55-fdf6-491e-b50c-ebe940290c63.png)
 
-![menugradiente](https://user-images.githubusercontent.com/91616144/158679644-4485ee55-fdf6-491e-b50c-ebe940290c63.png)
+
+![linegradiente](https://user-images.githubusercontent.com/91616144/158687455-cfb4c1ef-762e-4cc5-b5af-08fb54264cfa.png)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeciliaSalinas&theme=)
+![linegradiente](https://user-images.githubusercontent.com/91616144/158687455-cfb4c1ef-762e-4cc5-b5af-08fb54264cfa.png)
