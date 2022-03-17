@@ -1,28 +1,27 @@
 
 ![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
-### Hi 👋 soy Ceci.
+### Hi 👋🏼 soy Ceci.
 
-⭐**Quiero ser desarrolladora backend** 
-  Actualmente estudio para serlo: **php.** ![LOGOCELESTE](https://user-images.githubusercontent.com/91616144/158722405-13e6bf03-20b9-4afa-b525-b0c62c074ac9.png)
+⭐**Siguiendo la ruta para ser desarrolladora full stack.**
 
-⭐Aprendí y aprendo distintos lenguajes y herramientas:
-
+🔹  Actualmente capacitandome en JavaScript y en Desarrollo de software.
+💻  Aprendí y aprendo distintos lenguajes y herramientas:
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - Sql
 - Photoshop
 - Figma
 
-⭐**Mi complemento**
-Mi interés por la Ingeniería de software me acercó a la Tecnicatura en Desarrollo de software, la que me permite tener una visión integral del proyecto a trabajar y a futuro poder integrar proyectos de desarrollo de software.
+🤍 His hobbies: dibujar letras, escuchar música y mirar basquet 🏀.
 
+🤍 Me gusta el diseño en genearl y trato de aplicarlo en todo lo que hago.
 
-🤍 Me gusta el live coding como expresión artística.
-🤍 Me gusta el diseño en general y trato de incorporarlo en todo lo que haga.
+🤍 ¡Quiero hacer live coding! y para serlo me encuentro investigando **Hydra** que es un entorno de codificación similar a un sintetizador analógico para imágenes en tiempo real y es de código libre.
 
 ![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeciliaSalinas&theme=)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeciliaSalinas&theme=) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeciliaSalinas)](https://github.com/CeciliaSalinas/github-readme-stats)
 ![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
 
-🖤**Get in touch:**
+
