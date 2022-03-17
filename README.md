@@ -1,5 +1,5 @@
 
-![linegradiente](https://user-images.githubusercontent.com/91616144/158687455-cfb4c1ef-762e-4cc5-b5af-08fb54264cfa.png)
+![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
 ### Hi 👋 soy Ceci.
 
 ⭐**Quiero ser desarrolladora backend** 
@@ -21,8 +21,8 @@ Mi interés por la Ingeniería de software me acercó a la Tecnicatura en Desarr
 🤍 Me gusta el live coding como expresión artística.
 🤍 Me gusta el diseño en general y trato de incorporarlo en todo lo que haga.
 
-![linegradiente](https://user-images.githubusercontent.com/91616144/158687455-cfb4c1ef-762e-4cc5-b5af-08fb54264cfa.png)
+![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeciliaSalinas&theme=)
-![linegradiente](https://user-images.githubusercontent.com/91616144/158687455-cfb4c1ef-762e-4cc5-b5af-08fb54264cfa.png)
+![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
 
 🖤**Get in touch:**
