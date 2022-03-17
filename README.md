@@ -3,7 +3,7 @@
 ### Hi 👋 soy Ceci.
 
 ⭐**Quiero ser desarrolladora backend** 
-  Actualmente estudio para serlo: **php.**
+  Actualmente estudio para serlo: **php.** ![LOGOCELESTE](https://user-images.githubusercontent.com/91616144/158722405-13e6bf03-20b9-4afa-b525-b0c62c074ac9.png)
 
 ⭐Aprendí y aprendo distintos lenguajes y herramientas:
 
