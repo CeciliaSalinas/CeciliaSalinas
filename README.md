@@ -5,6 +5,7 @@
 ⭐**Siguiendo la ruta para ser desarrolladora full stack.**
 
 🔹  Actualmente capacitandome en JavaScript y en Desarrollo de software.
+
 💻  Aprendí y aprendo distintos lenguajes y herramientas:
 - HTML
 - CSS
