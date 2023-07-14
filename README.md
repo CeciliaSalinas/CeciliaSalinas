@@ -7,10 +7,8 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salinas-cecilia" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="30 " width="40" /></a>
- <a href="https://ceciliasalinas.com. ar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss. svg" alt="ceciliasalinas.com.ar" height="30" width="40" /></a> </p>
-  
+<a href="https://linkedin.com/in/salinas-cecilia" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="20 " width="30" /></a>
+
 <h3 align="left">Idiomas y Herramientas:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
