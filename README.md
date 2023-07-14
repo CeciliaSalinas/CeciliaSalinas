@@ -4,8 +4,8 @@
 <h2 align="center"> Hola👋🏽👩🏽‍💻</h2>
 <p align="center">Soy Ceci Salinnas una desarrolladora frontend que le gusta el diseño en todas sus formas. <br>
 Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
-Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. 
-- 👨‍💻 Todos mis proyectos están disponibles en [ceciliasalinas.com.ar](ceciliasalinas.com.ar)
+Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. <br>
+- 👨‍💻 Todos mis proyectos están disponibles en [ceciliasalinas.com.ar](ceciliasalinas.com.ar) <br>
 
 - 📫 Cómo contactarme **contacto@ceciliasalinas.com.ar**
 </p> 
