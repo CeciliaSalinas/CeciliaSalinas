@@ -3,7 +3,7 @@
 <h2 align="center">Hola Soy Ceci Salinas 👋🏽👩🏽‍💻</h2>
 <p aling="center">Soy una desarrolladora frontend que le gusta el diseño en todas sus formas. <br>
   Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar. <br>
-Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software.
+Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. </p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="center">
