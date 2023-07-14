@@ -1,7 +1,7 @@
 
 ![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
 <h2 align="center">Hola Soy Ceci Salinas 👋🏽👩🏽‍💻</h2>
-<p>Soy una desarrolladora frontend que le gusta el diseño en todas sus formas. <br>
+<p aling="center">Soy una desarrolladora frontend que le gusta el diseño en todas sus formas. <br>
   Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar. <br>
 Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software.
 
