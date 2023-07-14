@@ -10,8 +10,8 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
 <a href="https://linkedin.com/in/salinas-cecilia" target="_blank">
   <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="30 " width="40" /></a>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
+<h3 align="center">Lenguajes y herramientas:</h3>
+<p align="center"> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
