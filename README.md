@@ -6,11 +6,6 @@
 Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
 Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. </p> 
 
-<h3 align="center">Conecta conmigo</h3>
-<p align="center">
-<a href="https://linkedin.com/in/salinas-cecilia" target="_blank">
-  <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="20 " width="30" /></a>
-
 <h3 align="center">Lenguajes y herramientas</h3>
 <p align="center"> 
   
@@ -31,6 +26,13 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
     
  <a href="https ://www.photoshop.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" whidth="30" height="30"/> </a>
+
+<h3 align="center">Conecta conmigo</h3>
+<p align="center">
+<a href="https://linkedin.com/in/salinas-cecilia" target="_blank">
+  <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="20 " width="30" /></a>
+
+
  
 
 
