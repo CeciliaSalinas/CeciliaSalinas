@@ -23,7 +23,7 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height ="30"/> </a> 
-    ![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
+    
  <a href="https ://www.photoshop.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" whidth="30" height="30"/> </a>
 
@@ -32,4 +32,4 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
 <a href="https://linkedin.com/in/salinas-cecilia" target="_blank">
   <img src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="20 " width="30" /></a>
 
-
+![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
