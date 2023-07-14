@@ -9,7 +9,7 @@ Soy Cecilia Salinas, una desarrolladora frontend que le gusta el diseño en toda
 <h3 align="center">Soy una desarrolladora frontend que le gusta el diseño en todas sus formas, me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
 
 
-Todos mis proyectos están disponibles en [ceciliasalinas.com.ar] (ceciliasalinas.com.ar) <a href="https://linkedin.com/in/www.linkedin.com/in/salinas-cecilia" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.
+
 
 - 📫 Cómo contactarme **contacto@ceciliasalinas.com.ar**
 
