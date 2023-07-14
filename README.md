@@ -7,8 +7,8 @@ Me interesa investigar sobre el proceso de desarrollo de software, las metodolog
 Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. <br> </p> 
 
   <p aling="center">
-- 👨‍💻 Todos mis proyectos están disponibles en [ceciliasalinas.com.ar](ceciliasalinas.com.ar)
-- 📫 Cómo contactarme contacto@ceciliasalinas.com.ar
+- Todos mis proyectos están disponibles en [ceciliasalinas.com.ar](ceciliasalinas.com.ar) <br>
+- Cómo contactarme contacto@ceciliasalinas.com.ar
   </p>
 
 
