@@ -3,7 +3,7 @@
 
 <h2 align="center"> Hola👋🏽👩🏽‍💻</h2>
 <p align="center">Soy Ceci Salinnas una desarrolladora frontend que le gusta el diseño en todas sus formas. <br>
-  Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar. <br>
+Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
 Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. </p> 
 
 <h3 align="center">Conecta conmigo</h3>
@@ -20,8 +20,8 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/iconos/php/php-original.svg" alt="php" whidth="40" height="40"> </img> </a> 
+  <a href="https ://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg " alt="php" ancho="40" altura="40"/> </a> 
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
