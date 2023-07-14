@@ -30,7 +30,7 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height ="30"/> </a> 
     
  <a href="https ://www.photoshop.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" ancho="30" alto="30"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" whidth="30" height="30"/> </a>
  
 
 
