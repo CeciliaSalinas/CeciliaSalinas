@@ -1,5 +1,5 @@
 
-![Black White Dark Futuristic Error Page Website Error Page (2)](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/e07053a5-3052-4a72-a5dd-8e69e29b03cc)
+![Black Handwritten Signature Studio Logo](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/9d70da28-858f-4ee8-8cef-d5eadc907957)
 
 <h2 align="center"> Hola👋🏽</h2>
 <p align="left">Soy Ceci Salinas, una desarrolladora frontend incursionando en el mundo de Php que le gusta el diseño en todas sus formas.<br>
