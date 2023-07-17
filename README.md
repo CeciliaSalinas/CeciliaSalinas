@@ -1,5 +1,6 @@
 
-![Black Handwritten Signature Studio Logo](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/9d70da28-858f-4ee8-8cef-d5eadc907957)
+![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/ba287ca5-c656-4f77-8888-48e467b0c83d)
+
 
 <h2 align="center"> Hola👋🏽</h2>
 <p align="left">Soy Ceci Salinas, una desarrolladora frontend incursionando en el mundo de Php que le gusta el diseño en todas sus formas.<br>
