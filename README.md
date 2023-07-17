@@ -1,5 +1,6 @@
 
-![Black White Dark Futuristic Error Page Website Error Page (1)](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/2083a55b-b009-4849-b1b1-5c5e10e02115)
+![Black White Dark Futuristic Error Page Website Error Page (2)](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/e07053a5-3052-4a72-a5dd-8e69e29b03cc)
+
 <h2 align="center"> Hola👋🏽</h2>
 <p align="left">Soy Ceci Salinas, una desarrolladora frontend incursionando en el mundo de Php que le gusta el diseño en todas sus formas.<br>
 Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
