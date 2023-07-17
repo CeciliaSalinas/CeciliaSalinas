@@ -1,4 +1,3 @@
-![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
 ![Brown Minimalist Daily Vlog Fashion Linkedin Banner](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/ce4b6ad1-7e6a-45df-803d-73dc04247946.png)
 <h2 align="center"> Hola👋🏽</h2>
 
@@ -34,4 +33,4 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
 <a href="https://linkedin.com/in/salinas-cecilia" target="_blank">
   <img src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salinas-cecilia" height="20 " width="30" /></a>
 
-![menugradiente](https://user-images.githubusercontent.com/91616144/158722142-bda1de5d-9481-4d7c-838c-95e1d658e89c.png)
+
