@@ -1,5 +1,5 @@
 
-![Beige Simple Elegant Personal LinkedIn Banner (1)](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/872760b5-d27c-40a5-8ea5-6f217f92ad78)
+![Beige Simple Elegant Personal LinkedIn Banner (2)](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/39b56626-8c57-40de-bffd-2c0f3f62f707)
 <h2 align="center"> Hola👋🏽</h2>
 <p align="left">Soy Ceci Salinas, una desarrolladora frontend incursionando en el mundo de Php que le gusta el diseño en todas sus formas.<br>
 Me interesa investigar sobre el proceso de desarrollo de software, las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
@@ -9,7 +9,8 @@ Este interés me llevó al estudio formal de la profesión , la que me permitir�
 
 <h3 align="left">Lenguajes y herramientas</h3>
 <p align="left"> 
-  
+
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
   
