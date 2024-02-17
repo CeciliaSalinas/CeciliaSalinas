@@ -1,7 +1,7 @@
 
 ![Beige Simple Elegant Personal LinkedIn Banner (2)](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/39b56626-8c57-40de-bffd-2c0f3f62f707)
-<h2 align="center"> Hola👋🏽</h2>
-<p align="left">Soy Ceci Salinas, una desarrolladora frontend incursionando en el mundo de Php que le gusta el diseño en todas sus formas.<br>
+<h2 align="center"> Hola, Soy Ceci 👋🏽</h2>
+<p align="left">
 Me interesa investigar sobre el SDLC (Software development life cycle), las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
 Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. <br> 
 </p>
