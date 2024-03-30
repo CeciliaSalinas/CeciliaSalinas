@@ -1,12 +1,6 @@
 
 ![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/CeciliaSalinas/CeciliaSalinas/assets/91616144/efaf5563-1aeb-4e5e-970e-dd3173a6d18a)
-
-<h2 align="center"> Hola, Soy Ceci 👋🏽</h2>
 <p align="left">
-Me interesa investigar sobre el SDLC (Software development life cycle), las metodologías a las cuales puden adaptarse y las actividades que deben realizar.
-Este interés me llevó al estudio formal de la profesión , la que me permitirá plantear propuestas o emprendimientos productivos propios del ámbito del desarrollo de software. <br> 
-</p>
-
 
 <h3 align="left">Lenguajes y herramientas</h3>
 <p align="left"> 
